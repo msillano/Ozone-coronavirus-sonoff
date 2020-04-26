@@ -9,5 +9,15 @@ This constitutes the problem: the concentration is defined by differential equat
 
 But it can be calculated with appropriate tools! This is the motivation that pushed me to create ***SimulOzone, an ozone concentration simulator.***
 
-For the full story see [simul_ozone_en.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_en.pdf) oppure la versione italiana [simul_ozone_it.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_it.pdf) 
+For the full story see [simul_ozone_en.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_en.pdf) 
 
+----------
+La concentrazione dell'ozono in un dato volume dipende da due fattori: la generazione dell'ozono e la sua ricombinazione spontanea in ossigeno.
+
+Quando sono presenti contemporaneamente sia un meccanismo di produzione sia uno di consumo, la concentrazione tende ad un valore di equilibrio non superabile. In altre parole, per ogni combinazione di generatore/ambiente esiste un limite alla concentrazione massima che si può ottenere, anche tenendo acceso il generatore per tempi molto lunghi.
+
+Questo costituisce il problema: la concentrazione è definita da equazioni differenziali e segue un andamento esponenziale, pertanto è una grandezze non lineare e non calcolabile con operazioni matematiche semplici.
+
+Però è calcolabile con strumenti adeguati! Questa è la motivazione che mi ha spinto a realizzare questo ***SimulOzone, simulatore di concentrazione di ozono.***
+
+Il testo completo si trova qui [simul_ozone_it.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_it.pdf) 
