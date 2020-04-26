@@ -9,5 +9,5 @@ This constitutes the problem: the concentration is defined by differential equat
 
 But it can be calculated with appropriate tools! This is the motivation that pushed me to create ***SimulOzone, an ozone concentration simulator.***
 
-For the full story see [simul_ozone_en.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_en.pdf) oppure la versione italiana [simul_ozone_it.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_It.pdf) 
+For the full story see [simul_ozone_en.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_en.pdf) oppure la versione italiana [simul_ozone_it.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_it.pdf) 
 
