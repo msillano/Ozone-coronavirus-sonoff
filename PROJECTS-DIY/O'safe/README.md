@@ -1,23 +1,21 @@
-# SimulOzone ver 1.0  #
-![](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/images/fig001.png)
+# O’safe, *ozone  sanitation system*
 
-The concentration of ozone in a given volume depends on two factors: ozone generation and ozone self-recombination.
+Un progetto ambizioso, ma veramente innovativo: ***O’safe*** è un sistema di sanificazione ad ozono autonomo e portabile, con la forma di un carrello della spesa.
 
-Since there are a production and a consumption mechanism at the same time, the ozone concentra­tion tends to an equilibrium value that cannot be overcome. In other words, for each combination of genera­tor/environment, there is a limit to the maximum concentration that can be obtained, even keeping the generator ON for very long times.
+*An ambitious but truly innovative project: ***O’safe*** is an autonomous and portable sanitation system, in the shape of a shopping cart.*
 
-This constitutes the problem: the concentration is defined by differential equations and follows an exponential trend, therefore it is a non-linear quantity and cannot be evaluated with simple mathe­matical operations.
+![](images\o_safe02.jpg)
 
-But it can be calculated with appropriate tools! This is the motivation that pushed me to create ***SimulOzone, an ozone concentration simulator.***
+Durante il ritorno a casa dal mercato (in auto o a piedi) il contenuto è sanificato con un ciclo automatico e sicuro, perché il contenitore è er­meticamente chiuso. Gli acquisti che entrano in casa possono così es­sere maneggiati in tutta sicurezza ed affidabilità.
 
-For the full story see [simul_ozone_en.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_en.pdf) 
+*During the return home from the market (by car or on foot) the contents are sanitized with an automatic and safe cycle, because the container is hermetically sealed. The purchases that enter the house can thus be handled in complete safety and reliability.*
+![](images\o_safe01.png)
 
-----------
-La concentrazione dell'ozono in un dato volume dipende da due fattori: la generazione dell'ozono e la sua ricombinazione spontanea in ossigeno.
+A casa, ***O’safe*** può essere separato dalle rotelle, e può essere usa­to ovunque per sanificare qualsiasi cosa: ad esempio gli indumenti e  gli accessori usati all’esterno: scarpe, soprabito, cappello, guanti. Ma anche mascherine riusabili, portafoglio, occhiali etc…
 
-Quando sono presenti contemporaneamente sia un meccanismo di produzione sia uno di consumo, la concentrazione tende ad un valore di equilibrio non superabile. In altre parole, per ogni combinazione di generatore/ambiente esiste un limite alla concentrazione massima che si può ottenere, anche tenendo acceso il generatore per tempi molto lunghi.
+At home, ***O’safe*** can be separated from the wheels, and can be used anywhere to sanitize anything: for example, clothing and accessories used outside: shoes, overcoat, hat, gloves. But also reusable masks, wallet, glasses etc …
 
-Questo costituisce il problema: la concentrazione è definita da equazioni differenziali e segue un andamento esponenziale, pertanto è una grandezze non lineare e non calcolabile con operazioni matematiche semplici.
 
-Però è calcolabile con strumenti adeguati! Questa è la motivazione che mi ha spinto a realizzare questo ***SimulOzone, simulatore di concentrazione di ozono.***
+Per maggiori informazioni vedi il progetto ***O’safe*** in [italiano](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/O'safe/ozonetrolley_it.pdf) 
 
-Il testo completo si trova qui [simul_ozone_it.pdf](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/simulOzone/simul_Ozone_it.pdf) 
+For more information see the ***O’safe*** project in [english](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/O'safe/ozonetrolley_en.pdf)
