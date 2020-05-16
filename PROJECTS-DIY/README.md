@@ -1,4 +1,4 @@
-#ozone projects#
+#ozone projects
 
  5 progetti DIY per ozono e sanificazione
 
