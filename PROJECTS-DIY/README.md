@@ -1,4 +1,4 @@
-#ozone projects
+# ozone projects
 
  5 progetti DIY per ozono e sanificazione
 
@@ -8,7 +8,7 @@
 - ***ozoneMaster*** controller con misure in tempo reale
 - ***O’safe*** un dispositivo di sanificazione ad ozono per tutti.
 
-5 DIY projects for ozone and sanitization
+*5 DIY projects for ozone and sanitization*
 
 - ***simulOzone*** simulator of diffusion processes on PC or smartphone. -
 - ***ozoneMeter*** simple ozone alarm
