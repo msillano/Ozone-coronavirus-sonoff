@@ -4,12 +4,12 @@ Un progetto ambizioso, ma veramente innovativo: ***O’safe*** è un sistema di 
 
 *An ambitious but truly innovative project: ***O’safe*** is an autonomous and portable sanitation system, in the shape of a shopping cart.*
 
-![](images\o_safe02.jpg)
+![](images/o_safe02.jpg)
 
 Durante il ritorno a casa dal mercato (in auto o a piedi) il contenuto è sanificato con un ciclo automatico e sicuro, perché il contenitore è er­meticamente chiuso. Gli acquisti che entrano in casa possono così es­sere maneggiati in tutta sicurezza ed affidabilità.
 
 *During the return home from the market (by car or on foot) the contents are sanitized with an automatic and safe cycle, because the container is hermetically sealed. The purchases that enter the house can thus be handled in complete safety and reliability.*
-![](images\o_safe01.png)
+![](images/o_safe01.png)
 
 A casa, ***O’safe*** può essere separato dalle rotelle, e può essere usa­to ovunque per sanificare qualsiasi cosa: ad esempio gli indumenti e  gli accessori usati all’esterno: scarpe, soprabito, cappello, guanti. Ma anche mascherine riusabili, portafoglio, occhiali etc…
 
