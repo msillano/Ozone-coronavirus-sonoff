@@ -13,9 +13,9 @@ Durante il ritorno a casa dal mercato (in auto o a piedi) il contenuto è sanifi
 
 A casa, ***O’safe*** può essere separato dalle rotelle, e può essere usa­to ovunque per sanificare qualsiasi cosa: ad esempio gli indumenti e  gli accessori usati all’esterno: scarpe, soprabito, cappello, guanti. Ma anche mascherine riusabili, portafoglio, occhiali etc…
 
-At home, ***O’safe*** can be separated from the wheels, and can be used anywhere to sanitize anything: for example, clothing and accessories used outside: shoes, overcoat, hat, gloves. But also reusable masks, wallet, glasses etc …
+*At home, ***O’safe*** can be separated from the wheels, and can be used anywhere to sanitize anything: for example, clothing and accessories used outside: shoes, overcoat, hat, gloves. But also reusable masks, wallet, glasses etc …*
 
 
 Per maggiori informazioni vedi il progetto ***O’safe*** in [italiano](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/O'safe/ozonetrolley_it.pdf) 
 
-For more information see the ***O’safe*** project in [english](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/O'safe/ozonetrolley_en.pdf)
+*For more information see the ***O’safe*** project in [english](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/O'safe/ozonetrolley_en.pdf)*
