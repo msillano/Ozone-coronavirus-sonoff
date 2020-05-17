@@ -24,7 +24,7 @@ Here is the plan:
             ▪ Good practices
 
     C) Finally, how to use ozone at home? 5 DIY projects
-        ◦ simulOzone simulator of diffusion processes on PC or smartphone.
+        ◦ simulOzone simulator of diffusion processes on PC or smartphone: https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/simulOzone
         ◦ ozoneMeter (work in progress) simple ozone alarm
         ◦ ozoneTimerPDM (work in progress) timer with PDM function
         ◦ ozoneMaster (work in progress) a timer, with measurements in real time
@@ -59,11 +59,12 @@ Ecco il piano:
             ▪ Good practices
 
     C) Strategie e dispositivi: Finalmente, come usare in casa l’ozono? 5 progetti DIY:
-        ◦ simulOzone simulatore dei processi di diffusione su PC o smartphone.
-        ◦ ozoneMeter (work in progress) semplice allarme per l’ozono
-        ◦ ozoneTimerPDM (work in progress) timer con funzione PDM
-        ◦ ozoneMaster (work in progress) un timer, con in più controllo in tempo reale,.
-        ◦ O’safe (progetto) un dispositivo di sanificazione ad ozono per tutti.
+
+- [simulOzone](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/simulOzone) simulatore dei processi di diffusione su PC o smartphone.
+- [ozoneMeter](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMeter) (work in progress) semplice allarme per l’ozono
+- [ozoneTimerPDM](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM) (work in progress) timer con funzione PDM
+- [ozoneMaster](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMaster) (work in progress) un timer, con in più controllo in tempo reale,.
+- [O’safe](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/O'safe) (project) un dispositivo di sanificazione ad ozono per tutti.
 
 Versione Italiana: [*Ozono_Coronavirus_Sonoff_it.pdf*](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/Ozono_Coronavirus_Sonoff_it.pdf)
 
