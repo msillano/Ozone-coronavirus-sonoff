@@ -27,7 +27,7 @@ Ecco il piano:
         ◦ ozoneMaster (work in progress) un timer, con in più controllo in tempo reale,.
         ◦ O’safe (progetto) un dispositivo di sanificazione ad ozono per tutti.
 
-Versione Italiana: *Ozono_Coronavirus_Sonoff_it.pdf *
+Versione Italiana: [*Ozono_Coronavirus_Sonoff_it.pdf *](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/Ozono_Coronavirus_Sonoff_it.pdf)
 
 Ultima versione: [https://github.com/msillano/Ozone-coronavirus-sonoff ](https://github.com/msillano/Ozone-coronavirus-sonoff )
 
@@ -62,7 +62,7 @@ Here is the plan:
         ◦ ozoneMaster (work in progress) a timer, with measurements in real time
         ◦ O’safe (project) an ozone sanitizing device for everyone.
 
-English version: *Ozono_Coronavirus_Sonoff_en.pdf* 
+English version: [*Ozono_Coronavirus_Sonoff_en.pdf*](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/Ozono_Coronavirus_Sonoff_en.pdf)
 
 Last version: [https://github.com/msillano/Ozone-coronavirus-sonoff ](https://github.com/msillano/Ozone-coronavirus-sonoff )
 
