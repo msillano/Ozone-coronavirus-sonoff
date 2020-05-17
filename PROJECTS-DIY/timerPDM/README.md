@@ -15,4 +15,6 @@ Sto attendendo l'arrivo di **Sonoff wall switch** (vari tipi di spina-presa), ch
  
 ## stato
 
+![](images/test01.jfif)
+
 SW: in sviluppo
