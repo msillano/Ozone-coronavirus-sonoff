@@ -23,7 +23,7 @@ Here is the plan:
             ▪ Analysis
             ▪ Good practices
 
-    C) Finally, how to use ozone at home? 5 DIY projects
+    C) Finally, how to use ozone at home? 5 DIY projects :
     
 - [simulOzone](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/simulOzone) simulator of diffusion processes on PC or smartphone
 - [ozoneMeter](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMeter) (work in progress) simple ozone alarm
