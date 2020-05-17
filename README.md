@@ -8,7 +8,8 @@ Ecco il piano:
         ◦ Ozono PRO: fatti
         ◦ Ozono CON: fatti
 
-    B) Usi dell’ozono, con una piccolo campionario di prodotti rappresentativi sul mercato, per informarsi dello stato dell’arte e per fare scelte consapevoli:
+    B) Usi dell’ozono, con una piccolo campionario di prodotti rappresentativi sul mercato,
+       per informarsi dello stato dell’arte e per fare scelte consapevoli:
         ◦ Strategie nell’uso dell’ozono
         ◦ Air purification ozone generators
             ▪ Alcuni esempi
@@ -42,7 +43,8 @@ Here is the plan:
         ◦ Ozone PROS: facts
         ◦ Ozone CONS: facts
 
-    B) Uses of ozone, with a small sample of representative products on the market, to inquire about the state of the art and to make informed choices:
+    B) Uses of ozone, with a small sample of representative products on the market, to inquire 
+       about the state of the art and to make informed choices:
         ◦ Strategies in the use of ozone
         ◦ Air purification ozone generators
             ▪ Some examples
@@ -60,7 +62,7 @@ Here is the plan:
         ◦ ozoneMaster (work in progress) a timer, with measurements in real time
         ◦ O’safe (project) an ozone sanitizing device for everyone.
 
-English vrsion: *Ozono_Coronavirus_Sonoff_en.pdf * 
+English version: *Ozono_Coronavirus_Sonoff_en.pdf* 
 
 Last version: [https://github.com/msillano/Ozone-coronavirus-sonoff ](https://github.com/msillano/Ozone-coronavirus-sonoff )
 
