@@ -1,3 +1,5 @@
+# ozone, coronavirus, sonoff
+
 In questi tempi si parla molto dell’Ozono sui vari media: la fazione degli entusiasti viene assalita da violentissimi critici. <br> Da una parte abbiamo dei stakeholders (produttori e fornitori di servizi ‘ecologici’) che hanno interesse alla diffusione dell’ozono, ma essenzialmente come tecnologia per “professionisti” ed “addetti ai lavori”, dall’altra parte troviamo dei players che reagiscono alla gestione ‘esoterica’ dell’argomento, e spesso con argomenti altrettanto capziosi.
 
 E se invece cercassimo di fare un punto oggettivo? Ampliare la consapevolezza dei pregi e dei rischi della sanificazione domestica con l’Ozono? Trovare spazi DIY (Do It Yourself) sull’argomento, per svincolarlo da questa impasse dialettica? Ritengo sia un contributo quasi doveroso nell’attuale situazione. Potrebbe essere importante, direi quasi vitale, per qualcuno poter fare scelte razionali.
