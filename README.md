@@ -65,7 +65,7 @@ Ecco il piano:
         ◦ ozoneMaster (work in progress) un timer, con in più controllo in tempo reale,.
         ◦ O’safe (progetto) un dispositivo di sanificazione ad ozono per tutti.
 
-Versione Italiana: [*Ozono_Coronavirus_Sonoff_it.pdf *](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/Ozono_Coronavirus_Sonoff_it.pdf)
+Versione Italiana: [*Ozono_Coronavirus_Sonoff_it.pdf*](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/Ozono_Coronavirus_Sonoff_it.pdf)
 
 Ultima versione: [https://github.com/msillano/Ozone-coronavirus-sonoff ](https://github.com/msillano/Ozone-coronavirus-sonoff )
 
