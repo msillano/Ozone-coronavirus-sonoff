@@ -1,4 +1,4 @@
-#ozoneMeter#
+# ozoneMeter
 
 Semplice misuratore di Ozono, indica la presenza di concentrazioni di Ozono sicure o pericolose con 5 LED colorati:
 
@@ -9,7 +9,7 @@ Semplice misuratore di Ozono, indica la presenza di concentrazioni di Ozono sicu
 <li>La compensazione di umidità e temperatura è ottenuta con una calibrazione sul livello del fondo atmosferico.
 </ul></td><tr></table>
 
-## Componenti: ##
+## Componenti: 
 
 **Digispark (cpu ATTINY85) Board**
 
@@ -19,9 +19,7 @@ Semplice misuratore di Ozono, indica la presenza di concentrazioni di Ozono sicu
 
 ![](images/diagram-MQ-board.png)![](images/MQ131.jpg)
 
-
-
-##Stato##
+## Stato
 ![](images/test02.png)
 
 
