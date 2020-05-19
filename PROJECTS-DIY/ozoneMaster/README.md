@@ -8,7 +8,7 @@ Scheda base WEIMOS D1 R2 (eps8266 WiFi), Alimentatore 5V HiLink:
 
 WEIMOS schematics: [https://www.openhacks.com/uploadsproductos/wemos-d1-r2-schematic.pdf](https://www.openhacks.com/uploadsproductos/wemos-d1-r2-schematic.pdf)
 
-sensore per ozono con CPU EZ25-O3 e relay KEYES
+sensore per ozono con CPU ZE25-O3 e relay KEYES
 
 ![](images/ZE25-03.jfif) ![](images/keyes-relay.jfif)
 
