@@ -40,7 +40,7 @@ Applicazioni incluse:
 - **timerPDM-red** per PC, (usa *node-red*)
 - **PDM timer** per Android, (usa *IoT MQTT Panel*)
 
-Versione Italiana, vedi file: *timerPDM_sonoff_it.pdf*
+Versione Italiana, vedi file:  [timerPDM_sonoff_it](https://github.com/msillano/Ozone-coronavirus-sonoff/blob/master/PROJECTS-DIY/timerPDM/timerPDM_sonoff_it.pdf)
 
 Ultima versione: https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM
 
