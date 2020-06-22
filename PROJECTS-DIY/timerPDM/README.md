@@ -45,4 +45,4 @@ Versione Italiana, vedi file: *timerPDM_sonoff_it.pdf*
 Ultima versione: https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM
 
 ---------------------------------
-![](images/Timer-Andriod.jpg) ![](images/Timer-node-red.png) ![](images/S20.png)
+![](images/Timer-Android.jpg) ![](images/Timer-node-red.png) ![](images/S20.png)
