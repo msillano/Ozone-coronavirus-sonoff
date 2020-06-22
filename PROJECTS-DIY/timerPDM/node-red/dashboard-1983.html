@@ -1,0 +1,22 @@
+﻿<head>
+    <script class="code" type="text/javascript">
+	    //  creates and sizes a window for node-red/flow-1983 (ozone project)
+	    //  7x8 interface
+        var features =  ""  
+                        + "menubar=no,titlebad=no,toolbar=no,location=no,personalbar=no"
+                        + ",status=no,chrome=yes,resizable=no,centerscreen"
+                  
+                        + ",width="+(7*60)       //Width of content window
+                        + ",height="+(8*60)       //Height of content window
+                      // + ",outerWidth="+(7*60 )   //Width of window
+                      // + ",outerHeight="+(8*60)   //Height of window
+                        + ",top=320"
+                        + ",left=420"
+                        ;
+        window.open("http://localhost:1983/ui/#/0","_blank",features);
+        //Can only close windows opened by the script.
+        window.close();
+    </script>
+</head>
+<body>
+</body>
