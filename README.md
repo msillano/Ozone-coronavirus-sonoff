@@ -27,7 +27,7 @@ Here is the plan:
     
 - [simulOzone](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/simulOzone) simulator of diffusion processes on PC or smartphone
 - [ozoneMeter](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMeter) (work in progress) simple ozone alarm
-- [ozoneTimerPDM](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM) (work in progress) timer with PDM function
+- [ozoneTimerPDM](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM) timer with PDM function
 - [ozoneMaster](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMaster)  (work in progress) a controller on-off, with real time measurement.
 - [O’safe](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/O'safe) (project) an ozone sanitizing device for everyone.
 
@@ -63,7 +63,7 @@ Ecco il piano:
 
 - [simulOzone](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/simulOzone) simulatore dei processi di diffusione su PC o smartphone.
 - [ozoneMeter](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMeter) (work in progress) semplice allarme per l’ozono
-- [ozoneTimerPDM](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM) (work in progress) timer con funzione PDM
+- [ozoneTimerPDM](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM) timer con funzione PDM
 - [ozoneMaster](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/ozoneMaster) (work in progress) un controller on-off, con misure in tempo reale,.
 - [O’safe](https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/O'safe) (progetto) un dispositivo di sanificazione ad ozono per tutti.
 
