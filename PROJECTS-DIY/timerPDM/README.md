@@ -1,6 +1,6 @@
 
 # Ozone PDM timer
-![](images/s20.png) ![](images/Timer-use.png)
+ ![](images/Timer-use.png)
 
 A timer specially designed to control Ozone generators without a timer or the PDM function.
 
@@ -44,11 +44,5 @@ Versione Italiana, vedi file: *timerPDM_sonoff_it.pdf*
 
 Ultima versione: https://github.com/msillano/Ozone-coronavirus-sonoff/tree/master/PROJECTS-DIY/timerPDM
 
-
-![](images/sonoff.jpg)![](images/sonoff-basic-compare.jpg)
-
-
-![](images/images.jfif)
-
-
-![](images/test01.png)
+---------------------------------
+![](images/Timer-Andriod.png) ![](images/Timer-node-red.png) ![](images/S20.png)
