@@ -1,5 +1,6 @@
 
 # Ozone PDM timer
+![](images/s20.png) ![](images/Timer-use.png)
 
 A timer specially designed to control Ozone generators without a timer or the PDM function.
 
